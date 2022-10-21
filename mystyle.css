@@ -1,0 +1,14 @@
+#header {
+    background-color: rebeccapurple;
+    color: #ffff;
+}
+
+#leftMenu li, #rightMenu {
+    background-color: lightblue;
+    color: #ffff;
+}
+
+#footer {
+    background-color: cadetblue;
+    color: #ffff;
+}
